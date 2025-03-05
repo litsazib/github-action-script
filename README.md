@@ -96,4 +96,4 @@ cd dist && http-server
 
 This project is open source and available under the [MIT License](LICENSE).
 
-lorem
+lorem ipsum
